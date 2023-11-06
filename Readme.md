@@ -1,12 +1,18 @@
 # About me
 
-Hey ich heiße Maik bin 31 Jahre "alt" und fahre gerne Offroad mit meinem Motorrad 🏍️ oder bin mit meinem Camper Van Unterweg. 🏕️
+🤙 Hey ich heiße Maik bin 31 Jahre "alt" und fahre gerne Offroad mit meinem Motorrad 🏍️ oder bin mit meinem Camper Van Unterweg. 🏕️  
+🤖 Ich habe den Web-Developer Kurs am 06.11.23 begonnen und erhoffe mir somit einen Neustart für meine berufliche Zukunft.
 
-# Not me
-![Offroad](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_dq3lhzTdhHSaO00_5QbFJaFKI7mpr9XpgyrzJjEYOg&s) <img src="https://media0.giphy.com/media/WOGyW1zONpVHpMBbtl/giphy.gif" width="250" height="193"> 
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cyZnZpMGV5c2wxdzZod3h0c2RtMGVhdHc4anFhbW9hMHF6MHA2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif)
+
+# My camper, my motocycle
+<img src="https://github.com/MaikBerdelmann/MaikBerdelmann/assets/149384055/058598cb-a215-43e4-8da5-ab72f56d9d31" width="300" height="193"> 
+<img src="https://github.com/MaikBerdelmann/MaikBerdelmann/assets/149384055/3663be95-2ed6-4210-bd43-53f6d87b70f7" width="300" height="193"> 
+
 # What i like
+
 
 - Traveling
 - Gaming
 - Riding my motorcycle
-- Photography
+- Photography                                   
