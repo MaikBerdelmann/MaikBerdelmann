@@ -7,7 +7,7 @@
 
 # My camper, my motocycle
 <img src="https://github.com/MaikBerdelmann/MaikBerdelmann/assets/149384055/058598cb-a215-43e4-8da5-ab72f56d9d31" width="300" height="193"> 
-<img src="/Desktop/Bilder/me_gif" width="300" height="193"> 
+<img src="../Desktop/Bilder/me_gif.gif" width="300" height="193"> 
 
 # What i like
 
